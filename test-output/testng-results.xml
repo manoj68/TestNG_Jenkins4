@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestNG practice" duration-ms="63" started-at="2021-05-16T13:17:54Z" finished-at="2021-05-16T13:17:54Z">
+    <groups>
+    </groups>
+    <test name="DemoOne" duration-ms="63" started-at="2021-05-16T13:17:54Z" finished-at="2021-05-16T13:17:54Z">
+      <class name="demo.testng.Test1">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:demo.testng.Test1@66a3ffec]" name="beforeTest" is-config="true" duration-ms="0" started-at="2021-05-16T13:17:54Z" finished-at="2021-05-16T13:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:demo.testng.Test3@77caeb3e]" name="beforeTest" is-config="true" duration-ms="0" started-at="2021-05-16T13:17:54Z" finished-at="2021-05-16T13:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:demo.testng.Test1@66a3ffec]" name="beforeClass" is-config="true" duration-ms="0" started-at="2021-05-16T13:17:54Z" finished-at="2021-05-16T13:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:demo.testng.Test1@66a3ffec]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2021-05-16T13:17:54Z" finished-at="2021-05-16T13:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="show1()[pri:0, instance:demo.testng.Test1@66a3ffec]" name="show1" duration-ms="6" started-at="2021-05-16T13:17:54Z" finished-at="2021-05-16T13:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- show1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:demo.testng.Test1@66a3ffec]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-05-16T13:17:54Z" finished-at="2021-05-16T13:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="show2()[pri:0, instance:demo.testng.Test1@66a3ffec]" name="show2" duration-ms="4" started-at="2021-05-16T13:17:54Z" finished-at="2021-05-16T13:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- show2 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:demo.testng.Test1@66a3ffec]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-05-16T13:17:54Z" finished-at="2021-05-16T13:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:demo.testng.Test1@66a3ffec]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-05-16T13:17:54Z" finished-at="2021-05-16T13:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:demo.testng.Test1@66a3ffec]" name="afterClass" is-config="true" duration-ms="0" started-at="2021-05-16T13:17:54Z" finished-at="2021-05-16T13:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:demo.testng.Test3@77caeb3e]" name="afterTest" is-config="true" duration-ms="1" started-at="2021-05-16T13:17:54Z" finished-at="2021-05-16T13:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:demo.testng.Test1@66a3ffec]" name="afterTest" is-config="true" duration-ms="0" started-at="2021-05-16T13:17:54Z" finished-at="2021-05-16T13:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- demo.testng.Test1 -->
+      <class name="demo.testng.Test3">
+        <test-method status="PASS" signature="display()[pri:0, instance:demo.testng.Test3@77caeb3e]" name="display" duration-ms="4" started-at="2021-05-16T13:17:54Z" finished-at="2021-05-16T13:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display -->
+      </class> <!-- demo.testng.Test3 -->
+      <class name="demo.testng.Test4">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:demo.testng.Test4@3e6fa38a]" name="beforeSuite" is-config="true" duration-ms="20" started-at="2021-05-16T13:17:54Z" finished-at="2021-05-16T13:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:demo.testng.Test4@3e6fa38a]" name="beforeClass" is-config="true" duration-ms="0" started-at="2021-05-16T13:17:54Z" finished-at="2021-05-16T13:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:demo.testng.Test4@3e6fa38a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-05-16T13:17:54Z" finished-at="2021-05-16T13:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="firstDemo()[pri:0, instance:demo.testng.Test4@3e6fa38a]" name="firstDemo" duration-ms="2" started-at="2021-05-16T13:17:54Z" finished-at="2021-05-16T13:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstDemo -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:demo.testng.Test4@3e6fa38a]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-05-16T13:17:54Z" finished-at="2021-05-16T13:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:demo.testng.Test4@3e6fa38a]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2021-05-16T13:17:54Z" finished-at="2021-05-16T13:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="secondDemo()[pri:0, instance:demo.testng.Test4@3e6fa38a]" name="secondDemo" duration-ms="2" started-at="2021-05-16T13:17:54Z" finished-at="2021-05-16T13:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondDemo -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:demo.testng.Test4@3e6fa38a]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-05-16T13:17:54Z" finished-at="2021-05-16T13:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:demo.testng.Test4@3e6fa38a]" name="afterClass" is-config="true" duration-ms="1" started-at="2021-05-16T13:17:54Z" finished-at="2021-05-16T13:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:demo.testng.Test4@3e6fa38a]" name="afterSuite" is-config="true" duration-ms="0" started-at="2021-05-16T13:17:54Z" finished-at="2021-05-16T13:17:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- demo.testng.Test4 -->
+    </test> <!-- DemoOne -->
+  </suite> <!-- TestNG practice -->
+</testng-results>

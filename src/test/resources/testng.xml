@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNG practice">
+    
+ <!--   
+    <listeners>
+	    <listener class-name = "com.ExtentReportListener.ExtentReporterNG" />
+    </listeners>
+ -->  
+    <test name="DemoOne">
+     
+         <classes>
+                  <class name="demo.testng.Test1"/>
+                  <class name="demo.testng.Test4"/>
+                  <class name="demo.testng.Test3"/>
+          </classes>
+          
+     </test> <!-- Test -->
+</suite> <!-- Suite -->
+
+<!-- This is also called as test runner file.
+	You can also create multiple testng files as per the execution requirement. Example testng_sanity.xml, testng_regression.xml
+	If you want to skip any Test class from the execution then you can just comment it out.
+ -->
